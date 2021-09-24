@@ -1,0 +1,66 @@
+.gambar {
+    text-align: center;
+
+}
+
+.gambar>.gambar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.gambar{
+    background-color: cadetblue;
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 90px;
+}
+
+.sayhii {
+    background-color: burlywood;
+    font-size: 20px;
+    font-weight: 20;
+    line-height: 20px;
+}
+
+.mybio {
+    background-color: cadetblue;
+    font-size: 10px;
+    font-weight: 30;
+    line-height: 20px;
+}
+
+.my {
+    background-color: burlywood;
+    font-size: 10px;
+    font-weight: 30;
+    line-height: 20px;
+}
+
+.aboutme{
+    background-color: cadetblue;
+    font-size: 10px;
+    font-weight: 30;
+    line-height: 20px;
+}
+
+.achievement{
+    background-color: burlywood;
+    font-size: 10px;
+    font-weight: 30;
+    line-height: 20px;
+}
+
+.myskill{
+    background-color: cadetblue;
+    font-size: 10px;
+    font-weight: 30;
+    line-height: 20px;
+}
+
+.inspiration{
+    background-color: burlywood;
+    font-size: 10px;
+    font-weight: 30;
+    line-height: 20px;
+}
